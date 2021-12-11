@@ -1,0 +1,7 @@
+.updateProfile__editProfile > * {
+    padding: 15px 0;
+}
+
+.updateProfile__editProfile__heading {
+    border-bottom: 1px dashed lightgray;
+}

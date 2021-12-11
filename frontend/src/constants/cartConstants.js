@@ -1,0 +1,12 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_ITEM_CART = "REMOVE_ITEM_CART";
+export const CLEAR_CART = "CLEAR_CART";
+
+export const SAVE_SHIPPING_INFO = "SAVE_SHIPPING_INFO";
+
+export const PAYMENT_REQUEST = "PAYMENT_REQUEST";
+export const PAYMENT_RESET = "PAYMENT_RESET";
+export const PAYMENT_SUCCESS = "PAYMENT_SUCCESS";
+export const PAYMENT_FAIL = "PAYMENT_FAIL";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
